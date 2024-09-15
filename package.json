@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "akicode-v14-mc-status-bot": "file:",
+    "discord.js": "^14.16.2",
+    "minecraft-server-util": "^5.4.4"
+  },
+  "name": "akicode-v14-mc-status-bot",
+  "version": "0.0.1",
+  "description": "AkiCode v14 Mc Status bot alt yapısı",
+  "main": "akicode.js",
+  "scripts": {
+    "test": "node akicode.js"
+  },
+  "author": "Akira",
+  "license": "MIT"
+}
