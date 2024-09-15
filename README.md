@@ -27,8 +27,8 @@ npm i minecraft-server-util
 - Yukarıdakini yapmak istemezsenizde ``başlat.bat`` ı çalıştırın.
 
 # Kullanım
-``/ping`` yazarak botun pingini öğrenebilirsiniz. 
-``/status`` yazarak botun pingini öğrenebilirsiniz. 
+``/ping`` yazarak botun pingini öğrenebilirsiniz.
+``/mcstatus`` yazarak sunucu bilgilerini öğrenebilirsiniz. 
 
 # Destek
 Herhangi bir sorunla karşılaşırsanız veya yardım almak isterseniz, [benimle iletişime](https://discord.com/users/337545269845688361) geçebilirsiniz.
